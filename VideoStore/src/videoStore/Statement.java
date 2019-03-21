@@ -1,8 +1,5 @@
 package videoStore;
-import java.util.Vector;
-import java.awt.List;
 import java.util.ArrayList;
-import java.util.Enumeration;
 
 public class Statement 
 {
